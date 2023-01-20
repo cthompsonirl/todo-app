@@ -8,3 +8,4 @@ fix the drawer
 make soup
 make pizza
 go shopping
+Study Python
