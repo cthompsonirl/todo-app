@@ -1,10 +1,5 @@
-prepare lunch
-fix the shower
 fix the computer
 study python
-cook spaghetti
-make tomato soup
 make pizza
-go shopping for food
-Study Python
-
+make dinner
+clean the house
